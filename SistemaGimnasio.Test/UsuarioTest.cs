@@ -5,7 +5,7 @@ namespace SistemaGimnasio.Test
     public class UsuarioTest
     {
         [Fact]
-        public void AsiganrRutina_DebeAsignarCorrextamente()
+        public void AsiganrRutina_DebeAsignarCorrectamente()
         {
             // Arrange
             Usuario usuario = new Usuario("Juan",15,"Fuerza");
